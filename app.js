@@ -31,6 +31,7 @@ let salePercentage = 15;
 let stock = 0;
 let inStock = false;
 let selectedSize = "M";
+
 console.log("Price:", price);
 console.log("Is On Sale:", isOnSale);
 console.log("Sale Percentage:", salePercentage);
